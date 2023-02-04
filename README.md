@@ -10,4 +10,4 @@
 HTML, CSS, JavaScript
 
 ## Github Pages
-limassola.github.io/Aim-training/
+https://limassola.github.io/Aim-training/
